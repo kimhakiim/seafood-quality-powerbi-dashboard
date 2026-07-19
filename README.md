@@ -172,7 +172,7 @@ Monitors cold room temperature compliance across 4 cold rooms (CR-01 to CR-04).
 
 ## 👤 About
 
-Built by **[Abdurrachman Hakim]** as part of a career pivot into data analytics, leveraging domain expertise in seafood/fisheries and a background in data annotation.
+Built by **Abdurrachman Hakim** as part of a career pivot into data analytics, leveraging domain expertise in seafood/fisheries and a background in data annotation.
 
 [LinkedIn](https://linkedin.com/in/kimhakiim)
 [Threads](https://www.threads.com/@kimhakiim)
